@@ -1,1 +1,1 @@
-# 7agzKora-server
+# Humoreddit-server
